@@ -1,0 +1,13 @@
+PLE231:A1:Hadi Jabr:M:8/8/8:34:Palestine:Aisle
+PLE231:B1:Kareem Shaer:M:9/9/9:55:palestine:Aisle
+JAP123:A1:Mamoun Nawahdah:M: 9/2/1999:1234: Palestinian: Window
+JAP123:B1:Abdallah Jabr:M:10/10/10:1257:Palestine:Aisle
+JAP123:A2:Qassam Bader:M: 1/2/1970:1432: Palestinian: None
+GER345:D22:Dania Alqam:F: 3/8/2000:3927: Russian:Aisle
+JAP123:C12:Mahmoud AbdelKareem:M: 2/9/1980:4567: Palestinian: Aisle
+CAN234:D7:Omar Hussein:M: 7/8/2002:6709:Saudi: None
+GER345:C2:Aseel Saleh:F: 4/3/2005:6732:Libyan:None
+CAN234:C2:Raji Abdallah:M: 3/4/2000:6748:Canadian: Aisle
+CAN234:A20:Manar Ziad:F: 4/5/2000:7632:Jordinian: Window
+GER345:C22:Meera Jaber:F: 6/5/2001:8067: Norwegian :Aisle
+CAN234:F25:Raza'n Abufara:F: 5/6/2001:9834:Egyptian: Window
